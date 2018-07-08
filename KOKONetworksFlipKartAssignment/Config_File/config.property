@@ -1,0 +1,25 @@
+//URL's
+Stage_URL=https://www.flipkart.com/
+uat_URL=https://www.flipkart.com/
+prod_URL=https://www.flipkart.com/
+
+//Product details url
+pdt_details_ur =https://www.flipkart.com/moto-g5-plus-lunar-grey-32-gb/p/itmes2zjvwfncxxr?pid=MOBEQHMGMAUXS5BF&lid=LSTMOBEQHMGMAUXS5BFDPU5LD&marketplace=FLIPKART&srno=s_1_1&otracker=search&fm=SEARCH&iid=563c394d-8945-455e-9954-bc1a990b3e70.MOBEQHMGMAUXS5BF.SEARCH&ppt=Search%20Page&ppn=Search&ssid=2zkzywwlk00000001531032259463&qH=576beaf6e2af08e7
+
+Driver's
+ChromeDriver=
+IEDriver=
+
+BROWSER=FireFox;
+
+Credentials
+account=9611581800
+password=P@$$w0rd
+
+CartDetails
+name=charles
+mobile=96115818001
+pincode=560102
+locality=Nairobi
+address=India Institute of Technology Kharagpur
+city=Paangani

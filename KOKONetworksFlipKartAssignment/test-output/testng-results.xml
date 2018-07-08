@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="359518" started-at="2018-07-08T14:50:10Z" finished-at="2018-07-08T14:56:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="359518" started-at="2018-07-08T14:50:10Z" finished-at="2018-07-08T14:56:10Z">
+      <class name="com.Tests.FlipCartTestCases">
+        <test-method status="PASS" signature="ExecuteTestCases()[pri:0, instance:com.Tests.FlipCartTestCases@7113b13f]" name="ExecuteTestCases" duration-ms="359407" started-at="2018-07-08T17:50:10Z" finished-at="2018-07-08T17:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExecuteTestCases -->
+      </class> <!-- com.Tests.FlipCartTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
